@@ -4,8 +4,8 @@ export const projects = [
     description: "Movie Web app, Search all type of movies and series.",
     image: "/images/watchflix.PNG",
     tags: ["React", "Material-ui", "Javascript"],
-    source: "/#",
-    visit: "https://github.com/Loveday-Alfred/Watchflix",
+    source: "https://watchflixx.netlify.app/",
+    visit: "https://github.com/Loveday-Alfred/Watchflix/tree/main",
     id: 0,
   },
   {
@@ -14,8 +14,8 @@ export const projects = [
       "full-blown online shop with all the features of an e-commerce wep app",
     image: "/images/e-shop.PNG",
     tags: ["React", "Material-ui", "Javascript"],
-    source: "/#",
-    visit: "https://github.com/Loveday-Alfred/e-shop",
+    source: "https://e-stopping.netlify.app/",
+    visit: "https://github.com/Loveday-Alfred/e-shop/tree/front-end",
     id: 1,
   },
 ];
