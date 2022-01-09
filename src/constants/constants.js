@@ -12,7 +12,7 @@ export const projects = [
     title: "E-Store",
     description:
       "full-blown online shop with all the features of an e-commerce wep app",
-    image: "/images/e-shop.PNG",
+    image: "assets/watchflix.PNG",
     tags: ["React", "Material-ui", "Javascript"],
     source: "https://e-stopping.netlify.app/",
     visit: "https://github.com/Loveday-Alfred/e-shop/tree/front-end",
